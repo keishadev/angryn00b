@@ -5,8 +5,7 @@ import os
 import urllib2
 import json
 
-os.system("cls")
-os.system("title CLOWN HACKTIVISM")
+print ("System Running in" os.system(uname -a))
 print("            #####################################################")
 print("            #                                                   #")
 print("            #               GEOMETRIX IP TRACKER                #")
